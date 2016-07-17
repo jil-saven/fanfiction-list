@@ -1,0 +1,45 @@
+#wrapper {
+    background-color: #241515;
+    background: url(stena.jpg);
+    width: 1000px;
+    height: 2300px;
+    margin: auto;
+}
+#menu ul li {
+    list-style-type: none;
+    display: inline;
+    margin-right: 100px;
+    text-decoration: none;
+    padding: 10px 30px;
+    border-bottom: 0.5px;
+    background: linear-gradient(to top, #696969, #386940);
+    border-radius: 3px;
+    box-shadow: 1 0px 1px rgba(0, 0, 0, .2);
+    border-width: 3px;
+    border-style: dashed;
+}
+}
+#menu {
+    margin-left: 2;
+    padding: 1px 0;
+}
+#menu a {
+    color: #B4D9CE;
+    text-decoration: none;
+}
+#content {
+    text-align: center;
+    color: #C0C0C0;
+}
+#content p {
+    color: #C0C0C0;
+}
+#content a {
+    color: #C0C0C0;
+    text-decoration: none;
+}
+#footer h4,
+p {
+    text-align: center;
+    color: #DCDCDC;
+}
